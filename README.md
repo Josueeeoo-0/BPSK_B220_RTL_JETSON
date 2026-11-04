@@ -86,6 +86,4 @@ El [inventario de archivos y hashes](documentacion/INVENTARIO.md) identifica los
 
 Las fotografías del montaje, los diagramas y las capturas de las pruebas se encuentran en el [catálogo de imágenes](imagenes/README.md).
 
-El punto de partida fue el proyecto «Implementación de sistema receptor y demodulador de RF con SDR para Raspberry Pi», de Kiara Micaela Rodríguez Bautista, publicado entre los [proyectos de practicantes del IGP de 2022](https://www.igp.gob.pe/convocatorias/practicas-preprofesionales/nuestros-practicantes/proyectos/2022). Este repositorio desarrolla su propio montaje de enlace BPSK y su análisis de recuperación de bits; no reproduce todo el alcance del estudio original.
-
 Referencias del hardware y software: [GNU Radio](https://www.gnuradio.org/), [manual UHD de la familia B2x0](https://files.ettus.com/manual/page_usrp_b200.html) y [guía oficial del RTL-SDR Blog V4](https://www.rtl-sdr.com/v4/). Las notas de cada etapa enlazan las implementaciones correspondientes.
