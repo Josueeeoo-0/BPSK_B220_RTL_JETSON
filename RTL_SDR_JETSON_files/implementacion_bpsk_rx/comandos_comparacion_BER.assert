@@ -1,0 +1,11 @@
+# Referencias de ejecución desde la raíz del repositorio.
+# Este archivo es un apunte de comandos, no un programa Python.
+
+# Auditar los archivos archivados con búsqueda de anclaje para esta captura:
+python3 RTL_SDR_JETSON_files/implementacion_bpsk_rx/verificacion_ber_rf.py
+
+# Reproducir el cálculo histórico SOLO con su captura original:
+python3 RTL_SDR_JETSON_files/implementacion_bpsk_rx/verificacion_ber_historica.py --datos RUTA_A_CAPTURA_HISTORICA
+
+# Fundamentos y explicación línea por línea:
+# EXPLICACION_TEORICA/VERIFICACION_BER.md

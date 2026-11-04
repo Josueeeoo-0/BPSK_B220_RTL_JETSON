@@ -1,0 +1,4 @@
+# Solo para generadores/comparadores. GNU Radio, UHD y gr-osmosdr se instalan
+# mediante el sistema operativo, no desde este archivo de pip.
+numpy>=1.21,<3
+scipy>=1.8,<2

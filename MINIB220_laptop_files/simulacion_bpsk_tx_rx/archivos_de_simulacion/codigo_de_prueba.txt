@@ -1,0 +1,9 @@
+Comprobación BER desde el directorio simulacion_bpsk_tx_rx:
+
+python3 comprobacion_ber.py
+
+Para revisar los archivos generados por GNU Radio en ~/sdr-alertas/datos:
+
+python3 comprobacion_ber.py --tx ~/sdr-alertas/datos/bpsk_tx.u8 --rx ~/sdr-alertas/datos/bpsk_rx.u8
+
+El script acepta además --expected-bits N para validar otra longitud.

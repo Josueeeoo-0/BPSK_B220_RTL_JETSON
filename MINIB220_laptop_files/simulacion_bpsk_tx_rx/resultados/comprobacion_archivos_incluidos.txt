@@ -1,0 +1,5 @@
+Bits transmitidos: 100000
+Bits recibidos:    100000
+Errores:           0
+BER observada:      0
+PRUEBA CORRECTA: sin errores de bit.

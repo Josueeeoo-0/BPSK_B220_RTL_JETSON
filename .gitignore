@@ -1,0 +1,14 @@
+# Cachés y archivos regenerados por el entorno local
+__pycache__/
+*.py[cod]
+.venv/
+.grc_gnuradio/
+*.grc.bak
+*.grc~
+*~
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Los .grc, .py, datos .u8, resultados y fotografías sí forman parte del proyecto.

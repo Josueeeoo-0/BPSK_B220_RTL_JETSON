@@ -1,0 +1,29 @@
+{
+  "metodo": "primer anclaje exacto de dos ventanas; una alineacion hasta EOF",
+  "sha256_tx": "1d7cf9d325f349a6397b1b845c3572646ddfadd1d764a902dcbcbce4a2414d48",
+  "sha256_rx": "87c3a6fde9775ad95077565f9f2d73ad0da3cead1d4cb8054cbf15a8fed6a922",
+  "bits_tx": 100000,
+  "bits_rx": 1252730,
+  "bloque_busqueda_bits": 4096,
+  "ventanas_examinadas": 117,
+  "inicio_anclaje_rx": 475136,
+  "posicion_anclaje_tx": 70727,
+  "invertida": false,
+  "bits_excluidos_anclaje": 8192,
+  "inicio_medicion_rx": 483328,
+  "bits_comparados": 769402,
+  "errores": 145590,
+  "ber_observada": 0.18922487854203654,
+  "primeras_posiciones_error_rx": [
+    961192,
+    961195,
+    961196,
+    961197,
+    961198,
+    961202,
+    961203,
+    961204,
+    961205,
+    961207
+  ]
+}
